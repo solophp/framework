@@ -1,2 +1,2 @@
 # Framework
-SoloPHP is a lightweight and easy-to-use PHP framework for developing web applications and APIs.
+SoloPHP is a simple PSR compatible PHP framework for developing web applications and APIs.

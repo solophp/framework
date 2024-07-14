@@ -1,0 +1,38 @@
+{
+  "name": "solophp/framework",
+  "type": "project",
+  "description": "SoloPHP is a simple PSR compatible PHP framework for developing web applications and APIs.",
+  "keywords": ["SoloPHP","framework","PHP","API","PSR"],
+  "homepage": "https://github.com/SoloPHP/Framework",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vitaliy Olos",
+      "email": "vedastudio@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Solo\\": "Solo/"
+    }
+  },
+  "require": {
+    "php": ">=7.4",
+    "solophp/application": "dev-main",
+    "solophp/container": "dev-main",
+    "solophp/database-repository": "dev-main",
+    "solophp/http-client": "dev-main",
+    "solophp/http-emitter": "dev-main",
+    "solophp/settings": "dev-main",
+    "solophp/translate": "dev-main",
+    "solophp/session": "dev-main",
+    "solophp/inertia": "dev-main",
+    "solophp/validator": "dev-main",
+    "solophp/paginator": "dev-main",
+    "solophp/image-uploader": "dev-main",
+    "solophp/storage": "dev-main",
+    "solophp/flash-messages": "dev-main"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
