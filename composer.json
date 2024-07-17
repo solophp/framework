@@ -31,7 +31,8 @@
     "solophp/paginator": "dev-main",
     "solophp/image-uploader": "dev-main",
     "solophp/storage": "dev-main",
-    "solophp/flash-messages": "dev-main"
+    "solophp/flash-messages": "dev-main",
+    "solophp/formatter": "dev-main"
   },
   "minimum-stability": "dev",
   "prefer-stable": true
